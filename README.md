@@ -4,14 +4,14 @@
 ``` js 
 const Gabriel_Paz_dos_Santos = {
     Sobre: {
-      Nome: Gabriel Paz dos Santos
-      Idade: 18 anos
+      Nome: "Gabriel Paz dos Santos"
+      Idade: "18 anos"
     },
 
     Gostos: {
       Javascript, 
       ReactJS, 
-      React Native, 
+      ReactNative, 
       NodeJS,
       Typescript,
       Voleibol
@@ -19,14 +19,14 @@ const Gabriel_Paz_dos_Santos = {
 
     Formação: {  
       2017 : {
-        Escola: IFC - Campus Camboriú
-        Curso: Técnico em Irformática,
+        Escola: "IFC - Campus Camboriú"
+        Curso: "Técnico em Irformática",
         Conclusão: 2020,
         concluído: true
       },
       2020: {
-        Escola: IFC - Campus Camboriú
-        Curso: bacharelado em Sistemas da Informação
+        Escola: "IFC - Campus Camboriú"
+        Curso: "Bacharelado em Sistemas da Informação"
         Conclusão: 2024,
         Semetre: 1,
         Concluído: false,
@@ -37,5 +37,5 @@ const Gabriel_Paz_dos_Santos = {
 
 - Calendário de aprendizado
 
-17/05/2020 - Hoje eu apendi como fazer um CRUD com typeorm.
+17/05/2020 - Hoje eu apendi como fazer um CRUD com o ORM TypeORM.
 
