@@ -38,4 +38,5 @@ const Gabriel_Paz_dos_Santos = {
 - Calendário de aprendizado
 
 17/05/2020 - Hoje eu apendi como fazer um CRUD com o ORM TypeORM.
+19/05/2020 - Hoje eu aprendi a como usar o Notion como ferramenta para criareus resumos.
 
