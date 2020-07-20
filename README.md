@@ -42,4 +42,5 @@ const Gabriel_Paz_dos_Santos = {
 20/05/2020 - Hoje eu fiz minha primeira reunião para levantar requisitos para um sistema, e aprendi que é muito dificil porém isso me deixa muito feliz, por que eu vou estar desenvolvendo um software em que quase 3.000 mil pessoas vão utilizar.</br>
 21/05/2020 - Aprendi que typeORM está me dando trabalho, porém recompensador a descoberta.</br>
 23/05/2020 - Aprendi um pouco sobre o Electron e sobre o dynamic imports do ES2020.
-07/07/2020 - Hoje eu aprendi a malhavirosa propriedade grid r como usá-la.
+07/07/2020 - Hoje eu aprendi a malhavirosa propriedade grid e como usá-la.
+20/07/2020 - Finalmente entendi o uso do Hook useContext e como usa-lô em meus projetos.
