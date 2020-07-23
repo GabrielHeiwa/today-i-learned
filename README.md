@@ -44,3 +44,5 @@ const Gabriel_Paz_dos_Santos = {
 23/05/2020 - Aprendi um pouco sobre o Electron e sobre o dynamic imports do ES2020.
 07/07/2020 - Hoje eu aprendi a malhavirosa propriedade grid e como usá-la.
 20/07/2020 - Finalmente entendi o uso do Hook useContext e como usa-lô em meus projetos.
+23/07/2020 - Hoje eu aprendi como usar o mongodb atlas.
+
