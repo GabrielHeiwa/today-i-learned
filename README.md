@@ -46,3 +46,4 @@ const Gabriel_Paz_dos_Santos = {
 20/07/2020 - Finalmente entendi o uso do Hook useContext e como usa-lô em meus projetos.
 23/07/2020 - Hoje eu aprendi como usar o mongodb atlas.
 27/07/2020 - Depois de passar um aperto aprendi a usar variáveis de ambiente, como tbm o jsonwebtoken.
+04/08/2020 - Estou a participar da Next Level Week 2 (NLW2), para reforçar mais meus conhecimentos em React.
