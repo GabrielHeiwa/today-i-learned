@@ -47,4 +47,6 @@ const Gabriel_Paz_dos_Santos = {
 23/07/2020 - Hoje eu aprendi como usar o mongodb atlas.</br>
 27/07/2020 - Depois de passar um aperto aprendi a usar variáveis de ambiente, como tbm o jsonwebtoken.</br>
 04/08/2020 - Estou a participar da Next Level Week 2 (NLW2), para reforçar mais meus conhecimentos em React.</br>
-05/o8/2020 - Aprendi a como formatar meu PC para linux, e as vantagens em um ambiente de desenvolvimeto Linux.</br>
+05/08/2020 - Aprendi a como formatar meu PC para linux, e as vantagens em um ambiente de desenvolvimeto Linux.</br>
+06/08/2020 - Aprendi a como posso utilizar o knex com typescript.</br>
+07/08/2020 - Conheci um novo termo em banco de dados muito util o transaction.</br>
