@@ -50,3 +50,4 @@ const Gabriel_Paz_dos_Santos = {
 05/08/2020 - Aprendi a como formatar meu PC para linux, e as vantagens em um ambiente de desenvolvimeto Linux.</br>
 06/08/2020 - Aprendi a como posso utilizar o knex com typescript.</br>
 07/08/2020 - Conheci um novo termo em banco de dados muito util o transaction.</br>
+10/08/2020 - Consegui usar um pouco do socket.io alem de iniciar um bot para envio de mensagens com base em uma lista _.csv_ automáticamente.</br>
