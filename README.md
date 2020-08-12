@@ -53,3 +53,4 @@ const Gabriel_Paz_dos_Santos = {
 10/08/2020 - Consegui usar um pouco do socket.io alem de iniciar um bot para envio de mensagens com base em uma lista _.csv_ automáticamente.</br>
 11/08/2020 - Terminei meu primeiro prototipo para um site onde eu busco gerar algum tipo de rende com ele.</br>
 12/08/2020 - Fiz meu primeiro deploy do meu prororipo usando a umbler.</br>
+12/08/2020 - Fiz meu primeiro app para computadores usando meu site prototipo junto com o electron.</br>
