@@ -57,3 +57,5 @@ const Gabriel_Paz_dos_Santos = {
 13/08/2020 - Descobri sobre a maratona Behind the Code.</br>
 14/08/2020 - Finalmente carrei vontade de aprender a usar o RegEX ou funções regulares para os intímos.</br>
 17/08/2020 - Aprendi sobre meu primeiro algoritmo de estrutura de dados, a lista lincada.<\br>
+18/08/2020 - Consegui fazer meu primeiro web crawling com o puppeteer, ainda faltam algumas funções mas logo fica complete.</br>
+
